@@ -145,7 +145,8 @@ extra_css:
 
 nav:
   - Home: index.md
-  - 算法&数据结构: Algorithm/index.md
+  - 算法&数据结构:
+      - Algorithm/index.md
       - 基础算法:
           - Algorithm/基础算法.md
       - 搜索:
