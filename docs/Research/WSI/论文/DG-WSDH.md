@@ -18,5 +18,5 @@ data:
 
 注意力:衡量一个包中每个实例的重要性
 
-![img](./assest/综述/1-s2.0-S1361841525000167-gr2_lrg.jpg)
+![img](./assest/DG-WSDH/1-s2.0-S1361841525000167-gr2_lrg.jpg)
 
