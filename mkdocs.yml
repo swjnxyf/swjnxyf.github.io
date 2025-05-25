@@ -51,10 +51,7 @@ theme:
     #edit: material/pencil
 
 plugins:
-  - awesome-pages:
-      order: asc
-      sort_type: natural
-      order_by: title
+  - mkdocs-nav-enhancements
   - search
   - tags
   - blog:
@@ -175,19 +172,17 @@ extra_css:
 #      - blog/index.md
 #      - blog/tags.md
 
-nav:
-  - Home: index.md
-  - 算法&数据结构:
-      - index.md
-      - ...
-  - 开发&工程:
-      - index.md
-      - ...
-
-  - 科研&医学:
-      - index.md
-      - ...
-
-  - Blog:
-      - index.md
-      - ...
+#nav:
+#  - Home: index.md
+#  - 算法&数据结构:
+#      - index.md
+#      - ...
+#  - 开发&工程:
+#      - index.md
+#      - ...
+#  - 科研&医学:
+#      - index.md
+#      - ...
+#  - Blog:
+#      - index.md
+#      - ...
