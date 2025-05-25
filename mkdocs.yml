@@ -108,9 +108,9 @@ extra:
     provider: google
     property: G-QBB3SQMGLN # 如果克隆我的站点，请把这串代码改成你自己的
   social:
-    # - name: 友链 & 导航站
-    #   link: https://nav.wiki-power.com/
-    #   icon: fontawesome/regular/address-book
+     - name: 友链 & 导航站
+       link: https://nav.wiki-power.com/
+       icon: fontawesome/regular/image
     # - name: 书摘
     #   link: http://digest.wiki-power.com/
     #   icon: fontawesome/regular/bookmark
