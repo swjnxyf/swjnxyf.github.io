@@ -100,7 +100,7 @@ extra:
        icon: fontawesome/regular/image
      - name: 书摘
        link: http://digest.wiki-power.com/
-       icon: fontawesome/solid/mobile/button
+       icon: airplane
     # - name: 资源仓库
     #   link: https://github.com/linyuxuanlin/File-host
     #   icon: fontawesome/regular/file-lines
