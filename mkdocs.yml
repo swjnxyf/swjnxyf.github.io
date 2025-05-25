@@ -52,7 +52,7 @@ theme:
 
 plugins:
   - gen_nav:
-      enabled: true
+      enabled: false
   - search
   - tags
   - blog:
