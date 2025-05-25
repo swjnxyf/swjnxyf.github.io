@@ -159,7 +159,8 @@ nav:
           - Algorithm/字符串.md
       - 数学:
           - Algorithm/数学.md
-  - 开发&工程: Development/index.md
+  - 开发&工程:
+      - Development/index.md
       - Linux:
           - Development/linux.md
   - 科研&医学:
