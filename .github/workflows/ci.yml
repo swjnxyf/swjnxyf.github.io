@@ -28,6 +28,6 @@ jobs:
       - name: Install MkDocs dependencies
         run: pip install -r requirements.txt
       - name: Install MkDocs plugins
-        run: pip install mkdocs-autogenerate-plugin
+        run: pip install mkdocs-awesome-nav
       - name: Deploy with MkDocs
         run: mkdocs gh-deploy --force
