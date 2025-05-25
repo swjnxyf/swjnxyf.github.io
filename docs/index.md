@@ -1,27 +1,20 @@
-# 一级标题
+---
+title: "Home"
+hide:
+  - navigation
+  - toc
+---
 
-## 二级
+# Xiiiing's Wiki & Blog
 
-### 三级
+> 今天又被谁发现了?
 
-#### 四级
+白嫖github,实现云盘知识查看!
 
-##### 五级
+慢慢学,慢慢记,以后交给GPT!
 
-> 你好
+[算法&数据结构](https://xiiiing.github.io/Algorithm/){ .md-button }
+[开发&工程](https://xiiiing.github.io/Development/){ .md-button }
+[科研&医学](https://xiiiing.github.io/Research/){ .md-button }
+[Blog](https://xiiiing.github.io/blog){ .md-button }
 
-**加粗**
-
-*斜体*
-
-```python
-print("你好")
-```
-
-- [ ] 做了吗
-
-发现一些Mkdocs事情
-
-- 对于导航栏,一级和二级标题是没有下属可折叠列表
-- 然后就是index,index比较特殊不会显示出来,直接对应他的父目录
-- 下级就是分为下级文件和下级文件夹可以这样理解,index.md就不显示

@@ -97,10 +97,10 @@ extra:
   social:
      - name: swjnxyf
        link: https://swjnxyf.github.io/
-       icon: fontawesome/regular/handshake
+       icon: material/account-school-outline
      - name: xingmengyue
        link: https://xingmengyue.github.io/
-       icon: fontawesome/regular/handshake
+       icon: material/account-school
     # - name: 资源仓库
     #   link: https://github.com/linyuxuanlin/File-host
     #   icon: fontawesome/regular/file-lines
@@ -145,23 +145,26 @@ extra_css:
 
 nav:
   - Home: index.md
-  - 算法:
-      - Algorithm/index.md
+  - 算法&数据结构: Algorithm/index.md
       - 基础算法:
-          - Algorithm/basic_algorithm.md
-      - 数论:
-          - Algorithm/数论.md
+          - Algorithm/基础算法.md
+      - 搜索:
+          - Algorithm/搜索.md
+      - 数据结构:
+          - Algorithm/数据结构.md
+      - 动态规划:
+          - Algorithm/动态规划.md
+      - 字符串:
+          - Algorithm/字符串.md
+      - 数学:
+          - Algorithm/数学.md
+  - 开发&工程: Development/index.md
+      - Linux:
+          - Development/linux.md
+  - 科研&医学:
+      - WSI:
+          - 论文:
+              - Research/WSI/论文/DG-WSDH.md
   - Blog:
       - blog/index.md
       - blog/tags.md
-  - WSI:
-      - 论文:
-          - WSI/index.md
-          - 改下游:
-              - WSI/论文1.md
-              - WSI/论文2.md
-          - 改上游:
-              - WSI/index.md
-              - WSI/论文3.md
-              - WSI/论文4.md
-
