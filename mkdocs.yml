@@ -100,7 +100,7 @@ extra:
        icon: fontawesome/regular/image
      - name: 书摘
        link: http://digest.wiki-power.com/
-       icon: material/ab-testing
+       icon: airplane
     # - name: 资源仓库
     #   link: https://github.com/linyuxuanlin/File-host
     #   icon: fontawesome/regular/file-lines
@@ -125,6 +125,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/pangu@4.0.7/dist/browser/pangu.min.js
