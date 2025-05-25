@@ -53,9 +53,9 @@ theme:
 plugins:
     - autogenerate:  # 插件名称
       # 配置项（可选）
-      dirs: docs  # 要扫描的目录（默认当前目录，可根据项目结构调整）
-      include: ["*.md", "*.mkd"]  # 包含的文件类型（默认所有Markdown文件）
-      sort_by: name  # 排序方式（name/date，默认按文件名排序）
+        dirs: docs  # 要扫描的目录（默认当前目录，可根据项目结构调整）
+        include: ["*.md", "*.mkd"]  # 包含的文件类型（默认所有Markdown文件）
+        sort_by: name  # 排序方式（name/date，默认按文件名排序）
       # depth: 2  # 导航层级深度（默认生成所有层级）
       # prefix: ""  # 导航项前缀（如为每个标题添加固定前缀）
   - search
