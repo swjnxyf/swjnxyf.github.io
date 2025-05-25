@@ -51,7 +51,10 @@ theme:
     #edit: material/pencil
 
 plugins:
-  - awesome-pages
+  - awesome-pages:
+      order: asc
+      sort_type: natural
+      order_by: title
   - search
   - tags
   - blog:
