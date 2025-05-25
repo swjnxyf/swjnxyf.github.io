@@ -1,3 +1,4 @@
 nav:
-  - Home.md
+  - Home: index.md
   - "*"
+  - blog
