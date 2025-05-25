@@ -90,19 +90,6 @@ plugins:
         utm_campaign: "feed-syndication"
 
 extra:
-  alternate:
-    - name: 简体中文
-      link: /
-      lang: zh
-    - name: English
-      link: /en/
-      lang: en
-    - name: Español
-      link: /es/
-      lang: es
-    - name: اللغة العربية
-      link: /ar/
-      lang: ar
   generator: false
   analytics:
     provider: google
@@ -111,9 +98,9 @@ extra:
      - name: 友链 & 导航站
        link: https://nav.wiki-power.com/
        icon: fontawesome/regular/image
-    # - name: 书摘
-    #   link: http://digest.wiki-power.com/
-    #   icon: fontawesome/regular/bookmark
+     - name: 书摘
+       link: http://digest.wiki-power.com/
+       icon: fontawesome/regular/bookmark-slash
     # - name: 资源仓库
     #   link: https://github.com/linyuxuanlin/File-host
     #   icon: fontawesome/regular/file-lines
