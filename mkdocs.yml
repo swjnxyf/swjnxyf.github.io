@@ -51,7 +51,8 @@ theme:
     #edit: material/pencil
 
 plugins:
-  - mkdocs-nav-enhancements
+  - gen_nav:
+      enabled: true
   - search
   - tags
   - blog:
